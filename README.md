@@ -1,8 +1,8 @@
-# COLLECTED
+# moodspace studio
 
 > A minimalist visual workspace for collecting, arranging, and exploring ideas.
 
-**Collected** is a frontend-only moodboard studio designed for creatives, designers, photographers, students, and anyone who wants to turn scattered inspiration into organized visual collections.
+**A frontend-only moodboard studio designed for creatives, designers, photographers, students, and anyone who wants to turn scattered inspiration into organized visual collections.
 
 Create moodboards using images, colors, text, notes, and links — then arrange everything freely on a visual canvas.
 
