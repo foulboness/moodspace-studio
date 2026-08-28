@@ -1,0 +1,6 @@
+{
+  "name": "Moodspace Studio",
+  "description": "A minimalist creative moodboard and visual design workspace for designers, photographers, and creatives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
