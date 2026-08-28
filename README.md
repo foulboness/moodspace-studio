@@ -2,13 +2,13 @@
 
 > A minimalist visual workspace for collecting, arranging, and exploring ideas.
 
-**A frontend-only moodboard studio designed for creatives, designers, photographers, students, and anyone who wants to turn scattered inspiration into organized visual collections.
+** A frontend-only moodboard studio designed for creatives, designers, photographers, students, and anyone who wants to turn scattered inspiration into organized visual collections.
 
 Create moodboards using images, colors, text, notes, and links — then arrange everything freely on a visual canvas.
 
 ---
 
-## ✦ Features
+## Features
 
 * **Visual Canvas** — Arrange and position content freely
 * **Image Collections** — Add images and create visual references
@@ -25,7 +25,7 @@ Create moodboards using images, colors, text, notes, and links — then arrange 
 
 ---
 
-## ✦ What You Can Create
+## What You Can Create
 
 **Design Inspiration**
 Collect UI references, typography, layouts, and color palettes.
@@ -47,7 +47,7 @@ Organize ideas and references before starting a new project.
 
 ---
 
-## ✦ Interface
+## Interface
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -69,9 +69,9 @@ Organize ideas and references before starting a new project.
 
 ---
 
-## ✦ Design Direction
+## Design Direction
 
-Collected follows a **minimalist editorial aesthetic**:
+Moodspace Studio follows a **minimalist editorial aesthetic**:
 
 * Off-white backgrounds
 * Black typography
@@ -82,11 +82,9 @@ Collected follows a **minimalist editorial aesthetic**:
 * Minimal interface chrome
 * Smooth micro-interactions
 
-The interface is intentionally quiet so that the **content becomes the visual focus**.
-
 ---
 
-## ✦ Tech Stack
+## Tech Stack
 
 * **React**
 * **TypeScript**
@@ -99,7 +97,7 @@ No backend or database is required.
 
 ---
 
-## ✦ Project Structure
+## Project Structure
 
 ```text
 collected/
@@ -118,12 +116,12 @@ collected/
 
 ---
 
-## ✦ Getting Started
+## Getting Started
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/collected.git
+git clone https://github.com/foulboness/moodspace-studio.git
 ```
 
 Install dependencies:
@@ -137,31 +135,6 @@ Start the development server:
 ```bash
 npm run dev
 ```
-
----
-
-## ✦ Project Goals
-
-Collected was designed to explore:
-
-* Visual interface design
-* Drag-and-drop interactions
-* Canvas-based layouts
-* Responsive UI
-* Local data persistence
-* Creative tooling
-* Information architecture
-* Minimalist design systems
-
----
-
-## ✦ Status
-
-**Frontend Prototype — In Development**
-
-Built as a creative interface experiment and portfolio project.
-
----
 
 ## ✦ License
 
