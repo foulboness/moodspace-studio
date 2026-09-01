@@ -2,7 +2,7 @@
 
 > A minimalist visual workspace for collecting, arranging, and exploring ideas.
 
-Create moodboards using images, colors, text, notes, and links — then arrange everything freely on a visual canvas.
+Available on desktop only
 
 ---
 
